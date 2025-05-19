@@ -7,19 +7,3 @@ Repositrypattern.API/Repositrypattern.API/wwwroot
 # Ignore build output folders
 bin/
 obj/
-
-
-# Visual Studio files
-.vs/
-*.user
-*.suo
-*.cache
-*.dbmdl
-*.v2
-*.VC.db
-*.VC.opendb
-*.db
-*.log
-
-# Backup and layout files
-**/DocumentLayout.*
